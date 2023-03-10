@@ -1,4 +1,5 @@
-Edit
+Edit Page
 javascript:document.body.contentEditable = true; void 0;
-Stop editing
+
+Stop Editing Page
 javascript:document.body.contentEditable = false; void 0;
